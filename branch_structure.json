@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-882-web-025-service-worker-registration-prompt",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-882-web-025-service-worker-registration-prompt": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-882-web-025-service-worker-registration-prompt",
+    "origin"
+  ]
+}
